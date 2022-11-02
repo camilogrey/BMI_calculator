@@ -1,0 +1,12 @@
+
+"""
+BMI Calculator
+Assess what the ratio of your height is to your weight. 
+Formula:
+
+height (in kg) / weight x weight (in m)
+
+Function called bmi_calculator takes in two arguments 
+1. height (in meters)
+2. weight (in kgs). 
+"""
